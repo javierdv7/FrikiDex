@@ -3,3 +3,5 @@ Something strange is happening with my Pokedex. There's some strange information
 
 ## How to run
 Open the Github Page Application
+
+## For more lore you should check the Wiki
